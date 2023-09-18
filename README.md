@@ -1,4 +1,4 @@
-## Gap.com - Men's New Arrivals Web Scraper
+## Web scraping ecommerce website with Python
 
 
 ### Overview
